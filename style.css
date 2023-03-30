@@ -6,6 +6,7 @@
 
 :root {
     --dark: #070707;
+    --sizeindex: calc(1vw + 1vh);
 }
 
 @font-face {
