@@ -33,7 +33,7 @@ body, html {
 	overflow: visible;
 	top: 10vh;
 }
-.slier__wrapper {
+.slider__wrapper {
 	transition: var(--transition)!important;
 	will-change: transform;
 }
